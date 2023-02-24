@@ -1,6 +1,6 @@
 package Interview;
 
-import java.util.Scanner;
+
 
 public class Pn {
 	public static void main(String[] args) {
